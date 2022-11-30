@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MaxencePaulin
-- 👀 I’m interested in application development and web development
+- 👋 Hi, I'm a French junior developer and my name is Maxence PAULIN.
+- 👀 I’m interested in application development and web development (fullstack)
 - 🌱 I’m currently learning some language in computer science
 - 📫 You can reach me at this e-mail : [maxence.paulin25@gmail.com](mailto:maxence.paulin25@gmail.com)
 
